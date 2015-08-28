@@ -1,11 +1,11 @@
 {
-  "name": "colorCompatibility.js",
+  "name": "colorcompatibility",
   "description": "Javascript port of O'Donovan et al.'s data-driven color compatibility model",
   "version": "0.0.1",
   "author": "dritchie",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dritchie/colorCompatibility.js"
+    "url": "https://github.com/dritchie/colorcompatibility"
   },
   "main": "colorCompatibility.js",
   "dependencies": {
@@ -13,7 +13,7 @@
     "underscore": "^1.8.3"
   },
   "bugs": {
-    "url": "https://github.com/dritchie/colorCompatibility.js/issues"
+    "url": "https://github.com/dritchie/colorcompatibility/issues"
   },
   "engines": {
     "node": ">=0.10.0"
