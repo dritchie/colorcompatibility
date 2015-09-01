@@ -1,7 +1,7 @@
 {
   "name": "colorcompatibility",
   "description": "Javascript port of O'Donovan et al.'s data-driven color compatibility model",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "dritchie",
   "repository": {
     "type": "git",
